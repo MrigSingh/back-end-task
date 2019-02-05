@@ -1,0 +1,16 @@
+{
+  "name": "final_restapi",
+  "version": "1.0.0",
+  "description": "An api to perform CURD operation on various user details using MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mriganshu-Singh",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.9"
+  }
+}
